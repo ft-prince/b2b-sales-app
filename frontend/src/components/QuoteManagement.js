@@ -1,0 +1,1 @@
+[Quote management component code]
